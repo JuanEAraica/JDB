@@ -1,4 +1,4 @@
-<h1 class="page-header">Alumnos</h1>
+<h1 class="page-header">Trabajadores</h1>
 <form action="?c=Trabajador" method="post">
 
         <div class="well well-sm text-right">

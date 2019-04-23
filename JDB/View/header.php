@@ -18,6 +18,8 @@
                 <div id='cssmenu'>
 <ul>
    <li ><a href='#'>INICIO</a></li>
+   <li ><a href='#'>ADMINISTRADORES</a></li>
+   <li ><a href='#'>TRABAJADORES</a></li>
    <li class='active'><a href='#'>TABLAS</a></li>
    <li><a href='#'>EDITAR TABLAS</a></li>
    <li><a href='#'>LOGIN</a></li>
