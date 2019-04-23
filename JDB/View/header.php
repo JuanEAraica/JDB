@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 	<head>
-		<title>Creando un CRUD en PHP con MVC</title>
+		<title>JIANA</title>
         
         <meta charset="utf-8" />
         
